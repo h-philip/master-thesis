@@ -1,0 +1,22 @@
+# Configuration file
+
+# General
+description=yard L_UD norm fix point
+
+# Files
+collision_cloud_file=scenarios/yard/yard.collisions
+route_file=scenarios/yard/yard.route
+
+# Stages
+number_of_stages=30
+
+# Disturbance
+disturbance_on=true
+disturbance_change_factor=10
+
+# Costs
+collision_cost_factor=0
+
+# Fix points
+enable_norm_fix_point=true
+enable_initial_fix_point=true

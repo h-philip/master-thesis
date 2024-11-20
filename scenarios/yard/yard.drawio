@@ -1,0 +1,487 @@
+<mxfile host="Electron" modified="2024-03-05T15:06:33.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="Hb5iFCeHCjzxSsJVCFZy" version="23.0.2" type="device">
+  <diagram name="Page-1" id="yard">
+    <mxGraphModel dx="229" dy="1303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="collsionpoint-0" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1245" y="-15" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1455" y="-15" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1245" y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1455" y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1245" y="25" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1455" y="25" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="695" y="45" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="705" y="45" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="725" y="45" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="745" y="45" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="765" y="45" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="785" y="45" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="805" y="45" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1245" y="45" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1455" y="45" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="805" y="55" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="695" y="65" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1245" y="65" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1455" y="65" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="805" y="75" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="695" y="85" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1245" y="85" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1455" y="85" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-23" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="805" y="95" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1345" y="95" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="695" y="105" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1245" y="105" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1455" y="105" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="805" y="115" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1345" y="115" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-30" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="695" y="125" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-31" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1455" y="125" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-32" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="805" y="135" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1345" y="135" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="695" y="145" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-35" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="695" y="155" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="715" y="155" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-37" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="735" y="155" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="755" y="155" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-39" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="775" y="155" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="795" y="155" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-41" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="805" y="155" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-42" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1345" y="155" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-43" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="955" y="165" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-44" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="975" y="165" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-45" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="995" y="165" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1015" y="165" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-47" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1035" y="165" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-48" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1055" y="165" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-49" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="955" y="175" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-50" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1345" y="175" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-51" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1055" y="185" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="955" y="195" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-53" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1345" y="195" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-54" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1055" y="205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-55" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1065" y="205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-56" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1085" y="205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-57" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1105" y="205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-58" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1125" y="205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-59" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1145" y="205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-60" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1165" y="205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-61" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1185" y="205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-62" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1205" y="205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-63" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1225" y="205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-64" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1245" y="205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-65" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1265" y="205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-66" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1285" y="205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-67" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1305" y="205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-68" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1325" y="205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-69" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1345" y="205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-70" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="955" y="215" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-71" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1055" y="225" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-72" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="955" y="235" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-73" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1055" y="245" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-74" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="955" y="255" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-75" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="975" y="255" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-76" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="995" y="255" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-77" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1015" y="255" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-78" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1035" y="255" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-79" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1055" y="255" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-80" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="575" y="275" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-81" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="585" y="275" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-82" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="605" y="275" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-83" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="625" y="275" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-84" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="645" y="275" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-85" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="665" y="275" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-86" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="685" y="275" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-87" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="575" y="295" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-88" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="685" y="295" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-89" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="575" y="315" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-90" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="685" y="315" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-91" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="765" y="325" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-92" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="785" y="325" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-93" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="805" y="325" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-94" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="825" y="325" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-95" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="845" y="325" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-96" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="865" y="325" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-97" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="885" y="325" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-98" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="905" y="325" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-99" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="925" y="325" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-100" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="935" y="325" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-101" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="575" y="335" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-102" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="685" y="335" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-103" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="765" y="345" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-104" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="935" y="345" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-105" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="575" y="355" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-106" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="685" y="355" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-107" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="765" y="365" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-108" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="935" y="365" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-109" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="575" y="375" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-110" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="595" y="375" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-111" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="615" y="375" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-112" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="635" y="375" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-113" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="655" y="375" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-114" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="675" y="375" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-115" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="685" y="375" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-116" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="765" y="385" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-117" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="935" y="385" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-118" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="765" y="405" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-119" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="785" y="405" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-120" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="805" y="405" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-121" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="825" y="405" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-122" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="845" y="405" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-123" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="865" y="405" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-124" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="885" y="405" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-125" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="905" y="405" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-126" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="925" y="405" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-127" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="935" y="405" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-128" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="385" y="55" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-129" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="485" y="55" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-130" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="205" y="65" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-131" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="285" y="65" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-132" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="435" y="75" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-133" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="345" y="105" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-134" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="395" y="125" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-135" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="205" y="135" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-136" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="325" y="145" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-137" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="295" y="185" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-138" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="485" y="255" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-139" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="135" y="265" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-140" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="415" y="265" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-141" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="225" y="275" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="collsionpoint-142" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="315" y="285" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="routepoint-0" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="160" y="130" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="routepointtext-0" value="\(p_{0}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="115" y="130" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="routepoint-1" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="160" y="130" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="routepointtext-1" value="\(p_{1}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="155" y="130" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="routepoint-2" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="550" y="190" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="routepointtext-2" value="\(p_{2}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="545" y="190" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="routepoint-3" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="900" y="80" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="routepointtext-3" value="\(p_{3}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="895" y="80" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="routepoint-4" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1180" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="routepointtext-4" value="\(p_{4}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1175" y="60" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="routepoint-5" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="230" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="routepointtext-5" value="\(p_{5}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1415" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="routepoint-6" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1260" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="routepointtext-6" value="\(p_{6}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1255" y="390" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="routepoint-7" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1260" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="routepointtext-7" value="\(p_{7}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1215" y="390" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
