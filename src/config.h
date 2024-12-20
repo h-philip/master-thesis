@@ -36,7 +36,8 @@ namespace dynamic_programming
       APPLY_DISTURBANCE,
       DISTURBANCE_CHANGE_FACTOR,
       ENABLE_NORM_FIX_POINT,
-      ENABLE_INITIAL_FIX_POINT
+      ENABLE_INITIAL_FIX_POINT,
+      USE_SINGLE_STAGE_CONTROLLER
     };
 
     void load_from_file(const std::string& file);
@@ -115,6 +116,9 @@ namespace dynamic_programming
 
       m_key_names[ENABLE_INITIAL_FIX_POINT] = "enable_initial_fix_point";
       m_default_values[ENABLE_INITIAL_FIX_POINT] = "false";
+
+      m_key_names[USE_SINGLE_STAGE_CONTROLLER] = "use_single_stage_controller";
+      m_default_values[USE_SINGLE_STAGE_CONTROLLER] = "false";
     }
 
     bool is_int(const std::string& s, const std::string& key);

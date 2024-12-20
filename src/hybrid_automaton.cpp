@@ -379,7 +379,8 @@ void dynamic_programming::HybridAutomaton::run_once()
   if (m_minor_time_counter >= R)
   {
     m_minor_time_counter = 0;
-    m_major_time_counter++;
+    if (Config::get_instance().get(Config::USE_SINGLE_STAGE_CONTROLLER) == "true")
+      m_major_time_counter++;
   }
   if(!m_state->invariant_holds())
   {

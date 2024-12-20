@@ -1,7 +1,7 @@
 # Configuration file
 
 # General
-description=yard L_UD norm fix point
+description=yard L_UD both fix point no disturbance
 
 # Files
 collision_cloud_file=scenarios/yard/yard.collisions
@@ -11,8 +11,11 @@ route_file=scenarios/yard/yard.route
 number_of_stages=30
 
 # Disturbance
-disturbance_on=true
+disturbance_on=false
 disturbance_change_factor=10
+
+# Controller
+use_single_stage_controller=false
 
 # Costs
 collision_cost_factor=0
